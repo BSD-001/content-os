@@ -1,0 +1,41 @@
+{
+  "repository": "https://github.com/msitarzewski/agency-agents",
+  "commit": "58a6884db74e003e823d6aa0bbc7eda0466297f3",
+  "files": [
+    {
+      "source": "research/research-synthesist.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/research/research-synthesist.md",
+      "sha256": "3618b4a2a73523147731ae38ac4096cea0e83a7de930f55ea9ea6c69e3c77f30"
+    },
+    {
+      "source": "marketing/marketing-content-creator.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/marketing/marketing-content-creator.md",
+      "sha256": "26ddce44f057068a3935c13d53becd3c57385fb47fcdcfdd891b80269070b3d5"
+    },
+    {
+      "source": "marketing/marketing-xiaohongshu-specialist.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/marketing/marketing-xiaohongshu-specialist.md",
+      "sha256": "c0afe07b77d7795ff6c5ea928360f0e545d51a6df231d42d6282168ace027154"
+    },
+    {
+      "source": "design/design-visual-storyteller.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/design/design-visual-storyteller.md",
+      "sha256": "f4950c9d65b5d105ec48ebce4b7621154e3bf89871dbbf07af245476930eb4dd"
+    },
+    {
+      "source": "support/support-analytics-reporter.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/support/support-analytics-reporter.md",
+      "sha256": "ee0c4e6f02667be08898fea0ddbbfdab8cfd4eb52328cbf9af209a17a7dc204f"
+    },
+    {
+      "source": "testing/testing-reality-checker.md",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/testing/testing-reality-checker.md",
+      "sha256": "6d32fcdb114233e13902ec6372d50293b120e85d490b5e81d372c29808f988a1"
+    },
+    {
+      "source": "LICENSE",
+      "url": "https://raw.githubusercontent.com/msitarzewski/agency-agents/58a6884db74e003e823d6aa0bbc7eda0466297f3/LICENSE",
+      "sha256": "9a45258434d5cedf0af73c9ad4771373701225038d246c49219026c33677f66f"
+    }
+  ]
+}

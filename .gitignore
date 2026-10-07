@@ -1,0 +1,23 @@
+node_modules/
+data/
+.env
+.env.*
+!.env.example
+output/
+*.log
+.tools/
+
+# 本机交接、历史运营记录和个人稿件脚本不随开源版本分发。
+/CONTENT_OS_HANDOFF.md
+/PRD.md
+/docs/RESUME_REPORT.md
+/docs/VALIDATION.md
+/docs/archive/
+/resources/
+/scripts/pause-ai-budget.mjs
+/scripts/prepare-first-content.mjs
+/scripts/publish-approved-a-once.mjs
+/scripts/record-observed-evidence.mjs
+/scripts/refine-first-content.mjs
+/scripts/review-a-revision-once.mjs
+/scripts/write-content-review.mjs

@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-07T04:56:06.718Z",
+  "source": "https://www.opendoodles.com/",
+  "licenseSource": "https://www.opendoodles.com/about",
+  "license": "CC0",
+  "assets": [
+    {
+      "name": "reading-side",
+      "url": "https://opendoodles.s3-us-west-1.amazonaws.com/reading-side.svg",
+      "license": "CC0",
+      "author": "Pablo Stanley / Open Doodles",
+      "sha256": "bc98d93429c03fe206050649841d0cecab51c928fcb6f7e842ff4af6a5585593"
+    },
+    {
+      "name": "sitting-reading",
+      "url": "https://opendoodles.s3-us-west-1.amazonaws.com/sitting-reading.svg",
+      "license": "CC0",
+      "author": "Pablo Stanley / Open Doodles",
+      "sha256": "957f2c9047d12fed332378f307609990934403b4e2421f49d027d6793faa81d5"
+    },
+    {
+      "name": "meditating",
+      "url": "https://opendoodles.s3-us-west-1.amazonaws.com/meditating.svg",
+      "license": "CC0",
+      "author": "Pablo Stanley / Open Doodles",
+      "sha256": "fbd94062293864a062428c2d7ba1fb5eb4c6b01681c27ff5e27220368a1ea74d"
+    }
+  ]
+}
